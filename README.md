@@ -1,30 +1,60 @@
-# Ajel_News
-# 📰 عاجل نيوز  
+# Ajel News
 
-## 📖 الوصف  
-**عاجل نيوز** هو موقع إخباري عربي يهدف إلى عرض أحدث الأخبار من مختلف المجالات (الرياضية، السياسية، الاقتصادية، وغيرها) بشكل منسّق وسهل التصفح.  
-يحتوي الموقع على صفحات متعددة منها:  
-- 🏠 **الصفحة الرئيسية:** تعرض الأخبار الرئيسية والسايدبار الجانبي.  
-- ⚽ **صفحة إحصائيات اللاعبين:** تُظهر بيانات اللاعبين مثل عدد الأهداف والكروت الصفراء والحمراء بطريقة منظمة.  
-- 📊 **صفحات فرعية أخرى** للمباريات وترتيب الدوري.  
+Welcome to **Ajel News** — an Arabic online news website that provides up-to-date coverage of general news, sports, league standings, statistics, weather updates, and currency rates.
 
 ---
 
-## 🧠 المميزات
-- تصميم متجاوب يعمل على جميع الأجهزة (موبايل – تابلت – كمبيوتر).  
-- واجهة عربية بالكامل باتجاه **من اليمين إلى اليسار (RTL)**.  
-- استخدام **Bootstrap 5** لسهولة التنسيق والتوافق.  
-- عرض إحصائيات اللاعبين بطريقة احترافية مع الأيقونات الدالة (🎯 للأهداف – 🟨 للكروت الصفراء – 🟥 للكروت الحمراء).  
-- شريط تنقل علوي (Navbar) وتذييل احترافي (Footer).  
+## 📘 Features
+
+- **Home Page:** Latest and trending news  
+- **Matches Section**  
+- **League Standings**  
+- **Statistics Section**  
+- **Weather Information**  
+- **Currency Exchange Rates**  
+- **Contact and Advertisement Links**
 
 ---
 
-## 🛠️ التقنيات المستخدمة
-- **HTML5**  
-- **CSS3**  
-- **Bootstrap 5.3.3**  
-- **Bootstrap Icons**  
+## 🛠 Technologies Used
+
+*(Adjust this section based on your actual tools and stack)*
+
+- HTML / CSS / JavaScript  
+- News and weather APIs (if used)  
+- Responsive design for all devices  
+- Optional: frameworks or libraries (Bootstrap, jQuery, etc.)
 
 ---
 
-## 📂 هيكل المشروع
+## 🔍 How It Works
+
+1. Displays breaking news and featured stories with images and links to full articles.  
+2. Includes separate sections for sports, league tables, and statistics.  
+3. Shows current weather data for selected cities.  
+4. Displays real-time currency exchange rates.  
+5. Provides quick access to contact and advertisement information.
+
+---
+
+## 📞 Contact & Support
+
+- **Email:** ajelNews@gmail.com  
+- **Phone:** +20 1057894669  
+- **For Ads:** ajelNews@gmail.com  
+
+---
+
+## 📜 License & Copyright
+
+© 2025 **Ajel News** | All rights reserved.
+
+---
+
+## ✅ Run the Project Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://fibi2006.github.io/Ajel_News/
+
+
