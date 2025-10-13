@@ -1,0 +1,64 @@
+.player-stats {
+    direction: rtl;
+    width: 100%;
+}
+
+.player-stats>.container {
+    width: 100%;
+    direction: rtl;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: -7px 7px 5px rgba(0, 0, 0, 0.1);
+}
+
+.player-stats>h2 {
+    direction: rtl;
+    margin: 40px 20px;
+}
+
+.table thead th {
+    background-color: #333;
+    border: 1px solid #ddd;
+    color: white;
+}
+
+.table thead th,
+.table tbody td {
+    padding: 12px 15px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+}
+
+.table tbody tr:hover {
+    background-color: #f1f1f1 !important;
+    transition: background-color 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.table tbody tr td {
+    background-color: transparent;
+}
+
+.table tbody tr img {
+    right: 10px;
+    object-fit: cover;
+    width: 70px;
+    height: 70px;
+}
+
+.table tbody td:first-child {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.bi-square-fill, .bi-bullseye {
+    font-size: 20px;
+    position: relative;
+    top: 2px;
+    margin-right: 8px;
+}
