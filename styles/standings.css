@@ -154,12 +154,20 @@
         background-color: #e6e6eb;
     }
 
-    .team {
+    .nameClub {
         display: flex;
         align-items: center;
         gap: 20px;
         justify-content: start;
     }
+    .team {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        justify-content: start;
+        width: 30px;
+    }
+
 
     .team img {
         width: 28px;
